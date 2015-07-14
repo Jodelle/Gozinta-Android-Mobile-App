@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gozinta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Gozinta</string>
+    <string name="txtAuthor">Created By Jodelle Izere</string>
+    <string name="description">Restaurant Image</string>
+    <string name="txtPeople">Number Of People</string>
+    <string name="btnCost">Find the Cost</string>
+    <string-array name="txtServiceQuality">
+        <item >Excellent</item>
+        <item >Average</item>
+        <item >Poor</item>
+    </string-array>
+    <string name="prompt">Select Service Quality</string>
+    <string name="btnTip">Split Bill Calculator</string>
+    <string name="txtBill">Billed Amount</string>
+
+</resources>
